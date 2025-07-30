@@ -51,8 +51,9 @@ Essas informações representam o perfil dos usuários, incluindo dados contratu
 - Jupyter Notebook
 
 #### Passo a passo:
-- Clique em "Code" > "Download ZIP" no GitHub
-- Extraia o arquivo ZIP em sua máquina
-- Na pasta em que foi extraido o arquivo, clique com botão direito e em `Abrir no Terminal`
-- No Terminal digite: `jupyter notebook`
-
+1. Clique em "Code" > "Download ZIP" no GitHub
+2. Extraia o arquivo ZIP em sua máquina
+3. Na pasta em que foi extraido o arquivo, clique com botão direito e em `Abrir no Terminal`
+4. No Terminal digite: `jupyter notebook`
+5. Clique no arquivo `Analise_Churn_TeleconX.ipynb`
+6. Clique em **"Runtime" > "Run all"** para executar todo o notebook
